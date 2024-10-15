@@ -33,21 +33,7 @@
       <artifactId>ikonli-javafx</artifactId>
       <version>1.9.0</version>
     </dependency>
-    <dependency>
-      <groupId>org.kordamp.ikonli</groupId>
-      <artifactId>ikonli-devicons-pack</artifactId>
-      <version>1.9.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.kordamp.ikonli</groupId>
-      <artifactId>ikonli-fontawesome-pack</artifactId>
-      <version>1.9.0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.kordamp.ikonli</groupId>
-      <artifactId>ikonli-win10-pack</artifactId>
-      <version>12.3.1</version>
-    </dependency>
+    <!-- https://kordamp.org/ikonli/cheat-sheet-lineawesome.html -->
     <dependency>
       <groupId>org.kordamp.ikonli</groupId>
       <artifactId>ikonli-lineawesome-pack</artifactId>
